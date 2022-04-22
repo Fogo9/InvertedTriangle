@@ -2,7 +2,7 @@
 
 # Information
 
-* **inverted triangle construction with star symbol.**
+* **Inverted triangle construction with star symbol.**
 
 # Technologies Used
 
