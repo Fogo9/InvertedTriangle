@@ -1,22 +1,20 @@
 # **INVERTED TRIANGLE**
 
-# Information
+## INFORMATION
 
 * **Inverted triangle construction with star symbol.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **i**, **n**, **k** and **j** are defined with int.
 
 * Scanner class created for user to enter numbers.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -77,13 +75,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/InvertedTriangle.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
